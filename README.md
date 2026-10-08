@@ -43,3 +43,7 @@ claude plugin validate ./kimflip-mods/snake
 - 쓰는 것: 타이머, 세션 상태 저장, 패널 그리기, 알림. 파일·네트워크·프로그램 실행은 건드리지 않습니다
 
 지우려면 `claude plugin uninstall snake@kimflip-mods` 입니다.
+
+## 라이선스
+
+MIT — 자유롭게 쓰고, 고치고, 다시 배포해도 됩니다. [LICENSE](./LICENSE)
