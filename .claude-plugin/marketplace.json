@@ -1,0 +1,16 @@
+{
+  "name": "kimflip-mods",
+  "owner": {
+    "name": "김플립"
+  },
+  "metadata": {
+    "description": "김플립이 만든 Claude Code 모드 모음"
+  },
+  "plugins": [
+    {
+      "name": "snake",
+      "source": "./snake",
+      "description": "클로드가 일하는 동안 옆 패널에서 하는 스네이크 게임 (/snake)"
+    }
+  ]
+}

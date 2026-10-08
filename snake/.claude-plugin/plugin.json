@@ -1,0 +1,9 @@
+{
+  "name": "snake",
+  "version": "0.1.0",
+  "description": "클로드가 일하는 동안 옆 패널에서 하는 스네이크 게임 (/snake)",
+  "author": {
+    "name": "김플립"
+  },
+  "types": "./types/index.d.ts"
+}
